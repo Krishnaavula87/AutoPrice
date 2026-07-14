@@ -1,0 +1,22 @@
+# Large dataset (download via notebook / script)
+Data/train.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Model artifacts / outputs
+models/
+outputs/
+*.joblib
+*.pkl
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
